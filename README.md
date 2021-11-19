@@ -1,6 +1,6 @@
 # School_District_Analysis
 Module 4 - PyCitySchools with Pandaas
-## overview
+## Overview
 There were some evidences of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. Our job is to fix the math and reading scores, refractor to analysis. And report the overall analysis.
 ## Results
 ![old district](https://user-images.githubusercontent.com/89805399/142556787-75527081-ccb4-46ff-a459-992b98cf9831.png)
