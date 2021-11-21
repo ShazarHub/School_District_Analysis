@@ -48,9 +48,9 @@ Similar to the data above, we removed 461 students from Thomas High School summa
 
 
 
-# New Scores
+## New Scores
 
-Scores by grade, scores by school spending, scores by size, scores by school type
+### Scores by grade, scores by school spending, scores by size, scores by school type
 
 
 
@@ -58,7 +58,7 @@ Scores by grades :  the same because we only removed one grade from one school. 
 
 
 
-Scores by school spending : 
+### Scores by school spending : 
 
 ![111917807-48ea4580-8a58-11eb-864f-39a524fcace8](https://user-images.githubusercontent.com/89805399/142773490-faba70ba-5f05-4acc-b1b7-56671d3bc149.png)
 
@@ -68,5 +68,20 @@ The school spending has the most changes then others because of the increase bud
 
 
 
-Scores by school size : Thomas High School has a new student total of 1,174 which still meets the criteria for mediem school size. Only medium school values will be affected.
+### Scores by school size : 
+ Thomas High School has a new student total of 1,174 which still meets the criteria for mediem school size. Only medium school values will be affected.
+
+### Scores by School Type
+ Changing the number of students has zero effects on what school type school
+ 
+ ## Summary
+ 
+ The largest change from this analysis as the spending per student measurement.
+When presenting the data, Maria needs to decide if she wants to present it with 9th graders or not. If Maria presents the data with the 9th graders the values for less than $675 per student will increase. If that data is not presented the budget per student will be at $888.53 which looks that the school has more of a budget per student.
+After removing the 9th grade data, the scores for math and reading did not change. The reason for the removal of data because the potential academic dishonesty. With the data presented did not confirm that cheating made a difference in the average grades. 
+The overall performance for Thomas High School decreases by 0.3 which puts the school at an overall 90.6 passing percentage and makes the school 2nd place.
+How the school board vill and adjust the data for 9th grade class will determine how they will move on through high school
+
+ 
+ 
 
